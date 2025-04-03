@@ -1,0 +1,38 @@
+# Composer dependencies
+/vendor/
+
+# Slim Framework cache (if using)
+cache/
+logs/
+
+# PHPStorm or JetBrains IDE
+.idea/
+
+# VSCode
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# PHPUnit
+.phpunit.result.cache
+tests/_output/
+
+# Environment files
+.env
+.env.*
+
+# Composer lock file (optional)
+/composer.lock
+
+# Node (if using frontend assets)
+/node_modules/
+/package-lock.json
+yarn.lock
+
+# Docker artifacts (optional)
+/docker-compose.override.yml
+
+# Coverage reports
+coverage/
