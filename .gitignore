@@ -23,9 +23,6 @@ tests/_output/
 .env
 .env.*
 
-# Composer lock file (optional)
-/composer.lock
-
 # Node (if using frontend assets)
 /node_modules/
 /package-lock.json
